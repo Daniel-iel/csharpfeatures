@@ -1,0 +1,11 @@
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\csharpfeatures\csharp7Features\bin\Debug\netcoreapp2.1\csharp7Features.deps.json
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\csharpfeatures\csharp7Features\bin\Debug\netcoreapp2.1\csharp7Features.runtimeconfig.json
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\csharpfeatures\csharp7Features\bin\Debug\netcoreapp2.1\csharp7Features.runtimeconfig.dev.json
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\csharpfeatures\csharp7Features\bin\Debug\netcoreapp2.1\csharp7Features.dll
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\csharpfeatures\csharp7Features\bin\Debug\netcoreapp2.1\csharp7Features.pdb
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\csharpfeatures\csharp7Features\obj\Debug\netcoreapp2.1\csharp7Features.csprojAssemblyReference.cache
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\csharpfeatures\csharp7Features\obj\Debug\netcoreapp2.1\csharp7Features.csproj.CoreCompileInputs.cache
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\csharpfeatures\csharp7Features\obj\Debug\netcoreapp2.1\csharp7Features.AssemblyInfoInputs.cache
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\csharpfeatures\csharp7Features\obj\Debug\netcoreapp2.1\csharp7Features.AssemblyInfo.cs
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\csharpfeatures\csharp7Features\obj\Debug\netcoreapp2.1\csharp7Features.dll
+C:\Users\Iel\Documents\Visual Studio 2017\Projects\csharpfeatures\csharp7Features\obj\Debug\netcoreapp2.1\csharp7Features.pdb
