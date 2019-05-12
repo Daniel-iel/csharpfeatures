@@ -1,12 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>csharp7._2FeaturesAssembly</RootNamespace>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="NumericLiteralSyntaxImprovements\" />
-  </ItemGroup>
 
 </Project>

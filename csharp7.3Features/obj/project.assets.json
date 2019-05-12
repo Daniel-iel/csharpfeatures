@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "csharp7.2FeaturesAssembly/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/csharp7.2FeaturesAssembly.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/csharp7.2FeaturesAssembly.dll": {}
+        }
       }
     }
   },
@@ -558,6 +568,7 @@
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
+        ".nupkg.metadata",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -679,11 +690,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "csharp7.2FeaturesAssembly/1.0.0": {
+      "type": "project",
+      "path": "../csharp7.2FeaturesAssembly/csharp7.2FeaturesAssembly.csproj",
+      "msbuildProject": "../csharp7.2FeaturesAssembly/csharp7.2FeaturesAssembly.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "Microsoft.NETCore.App >= 2.1.0"
+      "Microsoft.NETCore.App >= 2.1.0",
+      "csharp7.2FeaturesAssembly >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -693,11 +710,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Iel\\Documents\\Visual Studio 2017\\Projects\\csharpfeatures\\csharp6Features\\csharp6Features.csproj",
-      "projectName": "csharp6Features",
-      "projectPath": "C:\\Users\\Iel\\Documents\\Visual Studio 2017\\Projects\\csharpfeatures\\csharp6Features\\csharp6Features.csproj",
+      "projectUniqueName": "C:\\Users\\Iel\\Documents\\Visual Studio 2017\\Projects\\csharpfeatures\\csharp7.3Features\\csharp7.2Features.csproj",
+      "projectName": "csharp7.2Features",
+      "projectPath": "C:\\Users\\Iel\\Documents\\Visual Studio 2017\\Projects\\csharpfeatures\\csharp7.3Features\\csharp7.2Features.csproj",
       "packagesPath": "C:\\Users\\Iel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Iel\\Documents\\Visual Studio 2017\\Projects\\csharpfeatures\\csharp6Features\\obj\\",
+      "outputPath": "C:\\Users\\Iel\\Documents\\Visual Studio 2017\\Projects\\csharpfeatures\\csharp7.3Features\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -715,7 +732,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Iel\\Documents\\Visual Studio 2017\\Projects\\csharpfeatures\\csharp7.2FeaturesAssembly\\csharp7.2FeaturesAssembly.csproj": {
+              "projectPath": "C:\\Users\\Iel\\Documents\\Visual Studio 2017\\Projects\\csharpfeatures\\csharp7.2FeaturesAssembly\\csharp7.2FeaturesAssembly.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
