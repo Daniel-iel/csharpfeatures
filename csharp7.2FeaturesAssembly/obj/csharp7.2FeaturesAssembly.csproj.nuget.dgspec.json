@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Iel\\Documents\\Visual Studio 2017\\Projects\\csharpfeatures\\csharp7.2FeaturesAssembly\\csharp7.2FeaturesAssembly.csproj": {}
+    "C:\\Users\\Iel\\Documents\\Projetos\\VisualStudio\\csharpfeatures\\csharp7.2FeaturesAssembly\\csharp7.2FeaturesAssembly.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Iel\\Documents\\Visual Studio 2017\\Projects\\csharpfeatures\\csharp7.2FeaturesAssembly\\csharp7.2FeaturesAssembly.csproj": {
+    "C:\\Users\\Iel\\Documents\\Projetos\\VisualStudio\\csharpfeatures\\csharp7.2FeaturesAssembly\\csharp7.2FeaturesAssembly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Iel\\Documents\\Visual Studio 2017\\Projects\\csharpfeatures\\csharp7.2FeaturesAssembly\\csharp7.2FeaturesAssembly.csproj",
+        "projectUniqueName": "C:\\Users\\Iel\\Documents\\Projetos\\VisualStudio\\csharpfeatures\\csharp7.2FeaturesAssembly\\csharp7.2FeaturesAssembly.csproj",
         "projectName": "csharp7.2FeaturesAssembly",
-        "projectPath": "C:\\Users\\Iel\\Documents\\Visual Studio 2017\\Projects\\csharpfeatures\\csharp7.2FeaturesAssembly\\csharp7.2FeaturesAssembly.csproj",
+        "projectPath": "C:\\Users\\Iel\\Documents\\Projetos\\VisualStudio\\csharpfeatures\\csharp7.2FeaturesAssembly\\csharp7.2FeaturesAssembly.csproj",
         "packagesPath": "C:\\Users\\Iel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Iel\\Documents\\Visual Studio 2017\\Projects\\csharpfeatures\\csharp7.2FeaturesAssembly\\obj\\",
+        "outputPath": "C:\\Users\\Iel\\Documents\\Projetos\\VisualStudio\\csharpfeatures\\csharp7.2FeaturesAssembly\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Iel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -49,10 +51,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
